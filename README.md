@@ -6,6 +6,7 @@ __Rui Sun__, De-Min Liang, Pu-Feng Du*. DDA-GTN: large-scale drug repurposing on
 # 基于图Transformer的药物-疾病关联预测方法
 
 在这项工作中，我们首先提出了一个基准数据集，其中包括构成三层异构网络的药物、基因和疾病三个实体，并引入图 Transformer网络（Graph Transformers Networks）来学习异构网络中药物-疾病的低维特征表示，关联分布编码器预测药物-疾病关联。我们将这种方法命名为 DDA-GTN。
+ [英文版GitHub链接](https://github.com/SunRuir/DDA-GTN).
 
 # 1.实验平台和工具包
 
